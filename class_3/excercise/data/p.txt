@@ -1,0 +1,4 @@
+{"name": "alfonso", "lastname": "palomares", "id": 1}
+{"name": "Ana", "lastname": "Lopez", "id": 2}
+{"name": "Lorena", "lastname": "Gonzalez", "id": 3}
+{"name": "Juan", "lastname": "Rodriguez", "id": 4}

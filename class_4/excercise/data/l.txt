@@ -1,0 +1,2 @@
+{"name": "alfonso", "lastname": "palomares", "id": 1}|{"id": 1, "name": "Frankenstein", "author": "Mary Shelley", "Country": "United Kingdom"}
+{"name": "alfonso", "lastname": "palomares", "id": 1}|{"id": 1, "name": "Frankenstein", "author": "Mary Shelley", "Country": "United Kingdom"}
